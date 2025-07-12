@@ -195,7 +195,7 @@ jobs:
 
 ---
 
-### Happy building! Reach out whenever you’re stuck—हम साथ‑साथ करेंगे 🚀
+### Happy building!
 # payment-infra
 # payment-infra
 # payment-infra
